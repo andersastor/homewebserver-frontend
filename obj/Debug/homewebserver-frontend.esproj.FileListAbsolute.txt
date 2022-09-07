@@ -1,0 +1,2 @@
+D:\Other\Projects\react\homewebserver\homewebserver-frontend\obj\Debug\homewebserver-frontend.esproj.SuggestedBindingRedirects.cache
+D:\Other\Projects\react\homewebserver\homewebserver-frontend\obj\Debug\homewebserver-frontend.esproj.CoreCompileInputs.cache
