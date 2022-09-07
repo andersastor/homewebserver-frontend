@@ -72,7 +72,7 @@ export default class App extends Component<any, State> {
                     <tbody>
                         {pages.map(page =>
                             <tr key={page.id}>
-                                <img className="favicon" style={image} src={page.icon}/>
+                                <img className="favicon" style={image} src={page.icon} alt="page icon"/>
                                 <a href={page.link}>{page.name}</a>
                             </tr>
                         )}
